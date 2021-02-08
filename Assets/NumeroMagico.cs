@@ -19,7 +19,7 @@ public class NumeroMagico : MonoBehaviour
         Debug.Log("Bienvenido al juego número máginco");
         Debug.Log("Por favor piense en un número, no me lo diga...");
         Debug.Log("El valor mínimo del número debe ser " + min);
-        Debug.Log("El valor máximo del número debe ser " + max);
+        Debug.Log("El valor máximo del n ser " + max);
         Debug.Log($"Ahora dígame , ¿Es {adivinado} el número es correcto, o es mayor o menor?");
         Debug.Log("Arriba = Mayor, Abajo = Menor, ENTER = Correcto");
         max++;
