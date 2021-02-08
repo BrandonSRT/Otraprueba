@@ -25,6 +25,8 @@ public class NumeroMagico : MonoBehaviour
         max++;
 
     }
+    //sdfhsf
+    //kdsjfalsjdf
 
     // Update is called once per frame
     void Update()
