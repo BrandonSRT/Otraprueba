@@ -51,5 +51,7 @@ public class NumeroMagico : MonoBehaviour
         adivinado = (int)Mathf.Floor((max + min) / 2);
         Debug.Log($"Entonces, Es {adivinado}​​​​ el número es correcto, o es mayor o menor");
         Debug.Log("Arriba = Mayor, Abajo = Menor, ENTER = Correcto");
+        //Esto es un comentario de prueba que pasa calabaza
+
     }
 }
