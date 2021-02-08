@@ -25,6 +25,7 @@ public class NumeroMagico : MonoBehaviour
         max++;
 
     }
+    //esto es para probar el tema de los conflictos
     //sdfhsf
     //kdsjfalsjdf
 
