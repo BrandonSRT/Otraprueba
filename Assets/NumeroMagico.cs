@@ -53,6 +53,8 @@ public class NumeroMagico : MonoBehaviour
         Debug.Log("Arriba = Mayor, Abajo = Menor, ENTER = Correcto");
         //Esto es un comentario de prueba que pasa calabaza
         //esto para probar el desktop
+        //esto es para probar lo que serian los pulls
+        
 
 
     }
