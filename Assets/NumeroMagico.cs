@@ -28,6 +28,7 @@ public class NumeroMagico : MonoBehaviour
     //esto es para probar el tema de los conflictos
     //sdfhsf
     //kdsjfalsjdfsdfdsfdsljfsdf;lsk
+    //Esto es una prueba para ver como funciona el commit de brandon
 
     // Update is called once per frame
     void Update()
