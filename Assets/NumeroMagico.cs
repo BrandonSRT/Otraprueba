@@ -27,7 +27,7 @@ public class NumeroMagico : MonoBehaviour
     }
     //esto es para probar el tema de los conflictos
     //sdfhsf
-    //kdsjfalsjdfsdfdsfdsljf
+    //kdsjfalsjdfsdfdsfdsljfsdf;lsk
 
     // Update is called once per frame
     void Update()
